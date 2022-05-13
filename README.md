@@ -4,6 +4,8 @@
 
 How can we use Custom Resources on AWS to extend our deployment and resource options without any restrictions, including non-AWS services, all within the same IaC? This article includes visuals and code examples written in TypeScript with the CDK.
 
+The article can be found here: https://leejamesgilmore.medium.com/91c0aea2641a
+
 ## Getting started
 
 You can run the following command in the app folder to deploy the service:
